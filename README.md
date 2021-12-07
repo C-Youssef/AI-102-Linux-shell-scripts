@@ -1,8 +1,8 @@
 
 
-## Bash (Linux) shell scripts for AI-102-AIENGINEER
+## Bash (Linux) shell scripts for the AI-102 AI ENGINEER labs
 
-This repository contains Bash shell scripts that are needed to complete the [AI-102-AIENGINEER labs](https://microsoftlearning.github.io/AI-102-AIEngineer/) using Linux or macOS. The labs are part of the Microsoft course [AI-102 Designing and Implementing a Microsoft Azure AI Solution](https://docs.microsoft.com/en-ca/learn/certifications/courses/ai-102t00). 
+This repository contains Bash shell scripts that are needed to complete the [AI-102 AI ENGINEER labs](https://microsoftlearning.github.io/AI-102-AIEngineer/) using Linux or macOS. The labs are part of the Microsoft course [AI-102 Designing and Implementing a Microsoft Azure AI Solution](https://docs.microsoft.com/en-ca/learn/certifications/courses/ai-102t00). 
 
 They should be used conjointly with the [AI-102-AIENGINEER repository](https://github.com/MicrosoftLearning/AI-102-AIEngineer). The AI-102 labs include Windows command shell (cmd) batch files that can only be used on Windows PCs. 
 
